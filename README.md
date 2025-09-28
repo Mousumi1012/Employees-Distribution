@@ -10,7 +10,6 @@ Welcome to the Employee-Distribution! This repository contains valuable insights
 
 ## [PowerBI Report](https://www.novypro.com/project/employee-distribution-dashboard-1) 
 
-![Screenshot 2023-07-19 154829](https://github.com/tushar2704/Employee-Distribution/assets/66141195/1bb3e67f-f543-4b20-ad3d-6126948392f0)
 
 
 ## Key Questions Explored
@@ -60,14 +59,3 @@ To get started with the HR Data Dashboard and explore the rich visualizations an
 
 I hope you find this HR Data Dashboard insightful and valuable for your organization's HR planning and decision-making processes. Should you have any questions or feedback, feel free to reach out. Happy analyzing!
 
-
-## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
-
-## Contact me!
-
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
